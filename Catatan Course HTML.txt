@@ -1,0 +1,6 @@
+Catatan Course HTML
+1. Non semantic Element (menceritakan apa-apa tentang isinya)
+- <div>
+- <span>
+
+2. Semantic Element (Mendefinisikan isinya dengan jelas)
